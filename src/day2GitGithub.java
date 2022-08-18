@@ -13,8 +13,10 @@ public class day2GitGithub {
     göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak istersek 1 kez
             git remote add origin adres
             git push -u origin master
-    Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
+    Not_1: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
     kullanırız.
+    Not_2: Github üzerinden yapılan değişiklik
+    
 
  */
 
