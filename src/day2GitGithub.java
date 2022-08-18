@@ -17,4 +17,10 @@ public class day2GitGithub {
     kullanırız.
 
  */
+
+    public static void main(String[] args) {
+        System.out.println("Github'ı da öğrendim");
+
+
+    }
 }
